@@ -1,4 +1,6 @@
 Assignment 2 COL 106
+
+
 Each employee(EmpNode) in Company class(company heirarchy) is made of 4 things:
   1) Name of employee
   2) level of employee
